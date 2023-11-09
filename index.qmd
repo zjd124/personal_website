@@ -1,0 +1,16 @@
+---
+title: "Jingdan Zou"
+about: 
+  template: solana
+  image: profile.png
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/zjd124
+---
+
+Jingdan Zou is a second-year graduate student studying Applied Statistics at New York University.
+
+```{r}
+1 + 1
+```
