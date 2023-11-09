@@ -1,16 +1,38 @@
 ---
 title: "Jingdan Zou"
 about: 
-  template: solana
+  template: jolla
   image: profile.png
   links: 
     - icon: github
       text: Github
       href: https://github.com/zjd124
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/jingdan-zou-636469239/
 ---
 
 Jingdan Zou is a second-year graduate student studying Applied Statistics at New York University.
 
 ```{r}
-1 + 1
+#1 + 1
 ```
+
+\### This content appears above the formatted about page content.
+
+:::{#hero-heading}
+
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+
+## Education
+
+University of California, San Diego \| San Diego, CA
+PhD in Mathematics \| Sept 2011 - June 2015
+
+Macalester College \| St. Paul MA
+B.A in Economics \| Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics \| Head Data Scientist \| April 2018 - present
+\
