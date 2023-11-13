@@ -18,7 +18,7 @@ library(bayesplot)
 library(loo)
 ```
 
-##  Raw data
+## Raw data
 
 ### Data Origin
 
@@ -74,13 +74,13 @@ cancer <- cancer_full %>%
 cancer <- na.omit(cancer)
 ```
 
-###  Target Variable Selection
+### Target Variable Selection
 
 Hinselmanns test refers to colposcopy using acetic acid. Meanwhile, colposcopy using Lugoliodine includes Schillers test, Cytology and Biopsy. Positive exams results don't necessarily imply a diagnostic, but as multiple exams return positive, the greater the likelihood of cervical cancer).
 
 In this project, we selected only one target variable to measure cervical cancer. We conducted separate logistic regressions on all of the original target variables (Hinselmann, Schiller, Citology, and Biopsy) and see which one would be the best for cervical cancer measurement.
 
-```{r, include=TRUE,warning=FALSE}
+```{r, include=FALSE,warning=FALSE}
 # use auc scores to test which model predicts the outcomes the best  
 
 set.seed(1111)
@@ -174,7 +174,7 @@ df <- data.frame(
 )
 ```
 
-```{r, include=FALSE}
+```{r}
 # Table 1: AUC 
 
 knitr::kable(df)
