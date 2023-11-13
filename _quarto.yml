@@ -2,13 +2,15 @@ project:
   type: website
 
 website:
-  title: "jingdan_website"
+  title: "Jingdan Zou"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - papers.qmd
-      - about.qmd
+      - posts.qmd
+      - cv.qmd
+
 
 format:
   html:

@@ -1,0 +1,52 @@
+---
+title: "cv"
+editor: visual
+---
+
+**Email:** jz5898\@nyu.edu
+
+**Phone:** 551-338-2097
+
+## Education
+
+-   Master of Science in Applied Statistics, New York University, New York, 2024
+
+-   Bachelor of Science in Statistics, Donghua University, Shanghai, 2022
+
+## Experience
+
+### Poizon
+
+**Data Analyst \| June 2023 - August 2023**
+
+-   Maintained and updated data metrics of overseas authentication business to ensure the uniformity and standardization.
+
+-   Iterated dashboard chains and visualization reports, reviewed the whole chain of user traffic data and located the best resource position for exposure. Combined with the analysis of competitors, producing optimization solutions.
+
+-   Developed SQL for buried data and monitor weekly funnel report of iauthentication business from multi-dimension.
+
+### Jaguar Land Rover Limited.
+
+**CRM Data Analyst \| February 2022 - August 2022**
+
+-   Led weekly management and funnel effectiveness analysis based on the CRM Salesforce system.
+
+-   Cleaned, organized, and described data based on SQL and Excel to provide weekly CRM analysis reports that support the quantitative and qualitative optimization of project operation.
+
+-   Monitored data and data reports to help track the healthy development of the content project and feed into decisions on upcoming campaigns.
+
+## Skills
+
+-   Programming Languages:
+
+    -   Expert in R, SQL, Python.
+
+    -   Proficient in Java, JavaScript, Matlab, SAS, SPSS.
+
+    -   Proficient in parallel computing techniques and cluster management, enabling efficient and scalable data processing.
+
+-   Business Intelligence:
+
+    -   Expert in Salesforce, Excel, Tableau.
+
+    -   Proficient in PowerBI, Google Analytics.

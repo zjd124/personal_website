@@ -1,0 +1,6 @@
+---
+title: "posts"
+editor: visual
+---
+
+[Bayesian](posts/bayesian.qmd)
